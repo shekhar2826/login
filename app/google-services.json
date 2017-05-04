@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "631516727358",
+    "firebase_url": "https://amigo-67e85.firebaseio.com",
+    "project_id": "amigo-67e85",
+    "storage_bucket": "amigo-67e85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631516727358:android:2d61d21d50f10cb5",
+        "android_client_info": {
+          "package_name": "com.example.hitman.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631516727358-comb6rmii7feqj0qj4bbgu34c70kb7nl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hitman.test",
+            "certificate_hash": "ad082748c0b681a1681a141f83bb3cb1c0d379aa"
+          }
+        },
+        {
+          "client_id": "631516727358-n7fg6ph9mn6k64ia317i7ijipt0t87bb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6myhkQPMoB5a2yiydTaIqV_coAWFcFvI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631516727358-n7fg6ph9mn6k64ia317i7ijipt0t87bb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631516727358:android:925c9728e05201ea",
+        "android_client_info": {
+          "package_name": "com.example.hitman.logintest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631516727358-89h3lu9glaain992t0vd0hskh3fjc3pt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hitman.logintest",
+            "certificate_hash": "ad082748c0b681a1681a141f83bb3cb1c0d379aa"
+          }
+        },
+        {
+          "client_id": "631516727358-n7fg6ph9mn6k64ia317i7ijipt0t87bb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6myhkQPMoB5a2yiydTaIqV_coAWFcFvI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631516727358-n7fg6ph9mn6k64ia317i7ijipt0t87bb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631516727358:android:a1940939a7b50403",
+        "android_client_info": {
+          "package_name": "com.example.hitman.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631516727358-n7fg6ph9mn6k64ia317i7ijipt0t87bb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6myhkQPMoB5a2yiydTaIqV_coAWFcFvI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
